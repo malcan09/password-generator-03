@@ -6,3 +6,6 @@ To be able to complete this assignment we had to create a box in which the user 
 Javascript makes the box function to give you a random password. 
 
   Although, this assignment was tough, it was fun to be able to play around and learn the complex that is javascript. 
+
+
+https://malcan09.github.io/password-generator-03/.
